@@ -1,0 +1,48 @@
+<Dialog>
+	<Frame>
+		<Scrollable>
+			<VerticalLayout>
+				<SectionHeader name="Personal Data" />
+				<Document/>
+			</VerticalLayout>
+		</Scrollable>
+	</Frame>
+</Dialog>
+
+
+
+
+
+<Element>
+	<ChildElement>
+	<ChildElement/>
+<Element/>
+
+
+
+<Character name="hero1" level="10">
+	<History>
+		<Event name="Birth" year="1986">The hero was born.</Event>
+		<Event name="Bla"/>
+	</History>
+	<Attributes>
+		<Strength value="20"/>
+		<Dexterity value="12"/>
+	</Attributes>
+</Character>
+
+
+
+
+
+<html>
+	<head></head>
+	<body>
+		<p size="large">This <i>is</i> a text</p>
+	</body>
+</html>
+
+
+
+
+
